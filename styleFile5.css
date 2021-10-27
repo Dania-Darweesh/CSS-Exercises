@@ -1,0 +1,57 @@
+body {
+    background-color: antiquewhite;
+}
+
+div {
+    padding: 5px;
+    margin-left: 10px;
+    width: 650px;
+}
+
+#div1 {
+    background-color: white;
+    border: 1px solid black;
+    height: 280px;
+}
+
+#div2 {
+    border: 2px;
+    background-color: white;
+    border-style: dashed;
+    height: 300px;
+    margin-top: 15px;
+}
+
+#div3 {
+    background-color: white;
+    border: 1px solid black;
+    height: 300px;
+    margin-top: 15px;
+}
+
+.mark1 {
+    background-color: coral;
+}
+
+.mark2 {
+    background-color: khaki;
+}
+
+.p2 {
+    border-style: dashed;
+    border-color: red;
+    padding: 10px;
+    margin: 5px;
+}
+
+.p3 {
+    color: darkorchid;
+    margin-left: 5px;
+}
+
+@media (min-width:1440px) {
+    div {
+        width: 70%;
+        font-size: 21px;
+    }
+}

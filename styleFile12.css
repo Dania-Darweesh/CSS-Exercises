@@ -1,0 +1,23 @@
+body
+{
+    background-color: violet;
+}
+.sq{
+    display: inline-block;
+    float: left;
+    background-color: gainsboro;
+    margin: 10px;
+    width: 300px;
+    height:200px;
+    overflow: hidden;
+
+
+}
+textarea {
+    background: transparent;
+    border: 3px solid;
+    overflow-y: scroll;
+    font-weight: 800;
+    margin-left: 10px;
+    
+}

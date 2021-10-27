@@ -1,0 +1,146 @@
+.p1 {
+    color: #FFA500;
+}
+
+.p2 {
+    color: #000000;
+}
+
+.img1 {
+    background-image: url(water.jpg);
+}
+
+/* HTML2 */
+
+#first {
+    color: coral;
+}
+
+#second {
+    color: black;
+    text-align: end;
+}
+
+#third {
+    color: black;
+}
+
+#forth {
+    color: grey;
+    text-align: end;
+}
+
+/* HTML3 */
+
+.div3 {
+    margin-left: 4%;
+}
+
+.span1 {
+    color: blue;
+}
+
+.span2 {
+    color: chartreuse
+}
+
+hr {
+    padding: 0.75px;
+    width: 100%;
+}
+
+/*HTML4*/ 
+.table1 {
+    border-spacing: 10px;
+    border: 1px solid white;
+ }
+
+ td {
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px #888888;
+  padding: 7px;
+     
+ }
+
+ /* HTML7 */
+ .orange{
+    color: orange;
+}
+.blue{
+    color: blue;
+}
+.p7{
+    font-size: large;
+
+}
+.red{
+
+    color:red;
+}
+
+/* HTML8 */ 
+table .td8{
+
+    border:1px solid black ;
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+/* HTML9 */
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: #edff55;
+    display: inline-block;
+    border: 1px solid #000;
+}
+
+span:nth-of-type(even) {
+    background-color: green;
+    margin-bottom: -20px;
+}
+
+/* HTML10 */
+.box1{
+    background-color: green;
+    
+    max-width: 100%;
+    height:650px;
+    padding: 20px;
+    display: block;
+  
+  }
+  
+  .box2{
+  
+      padding: 20px;
+      height: 570px;
+      background-color: green;
+      border:20px solid yellow;
+      
+  
+  }
+  .box3{
+  
+      background-color: green;
+      height: 485px;
+      border: 20px solid yellow;
+      padding: 20px;
+     
+  }
+  .white{
+      color: white;
+      margin-left: 40%;
+      font-size: 50px;
+      margin-top: 200px;
+      display: flex;
+  }
+  /* HTML11 */
+  .img11{
+    position: absolute;
+      right: 40px;
+      margin-top: 100px;
+  }
